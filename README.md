@@ -5,14 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on two projects: ofisalud.do and ofidental.do
-- 🌱 I’m currently learning Angular CLI and continue improving vue development.
-- 👯 I’m looking to collaborate on Odontogram library.
+
 - 🤔 I’m looking for help with Odontogram javascript project.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+- 🔭 I’m currently working on two projects: ofisalud.do and ofidental.do
+- 🌱 I’m currently learning Angular CLI and continue improving vue development.
+- 👯 I’m looking to collaborate on Odontogram library.
 
 Personal blog: http://consejosdelguru.blogspot.com/
--->
