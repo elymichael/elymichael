@@ -8,3 +8,6 @@ Dominican Republic Software Engineer, with more than 15 years of experiences dev
 - 👯 I’m looking to collaborate on Odontogram library.
 
 Personal blog: http://consejosdelguru.blogspot.com/
+
+Some sites developed for us:
+<a href='http://www.ofisalud.do/app'>ofisalud.do</a>
