@@ -10,5 +10,6 @@ Dominican Republic Software Engineer, with more than 15 years of experiences dev
 Personal blog: http://consejosdelguru.blogspot.com/
 
 Some sites developed for us:
-##<a href='http://www.ofisalud.do/app'>ofisalud.do</a>
-##<a href='http://www.ofidental.do/app'>ofidental.do</a>
+
+- <a href='http://www.ofisalud.do/app'>ofisalud.do</a>
+- <a href='http://www.ofidental.do/app'>ofidental.do</a>
