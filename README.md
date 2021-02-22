@@ -7,6 +7,8 @@ Hi, My name is Ely Michael Núñez, I am Software developer from Dominican Repub
 - 🌱 I’m currently learning Angular CLI and continue improving vue development.
 - 👯 I’m looking to collaborate on Odontogram library.
 
+I currently work as Full stack developer at ERC BPO. Additional to that, I work some projects directly throught my own company in Dominican Republic, SITCS, EIRL.
+
 Personal blog: http://consejosdelguru.blogspot.com/
 
 Some sites developed for us:
