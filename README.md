@@ -18,7 +18,7 @@ project: <b>oficondo.do</b>
 Some sites developed for us:
 
 - [x] <a href='http://www.ofisalud.do/app'>ofisalud.do</a>
-- [x] <a href='http://www.ofidental.do/app'>ofidental.do</a>
+- [ ] <a href='http://www.ofidental.do/app'>ofidental.do</a>
 - [ ] <a href='http://www.almanaquerd.com'>AlmanaqueRD</a>
 - [x] <a href='http://www.sitcsrd.com'>Sitcs, E.I.R.L</a>
 - [ ] <a href=''>OfiCondo.do</a>
